@@ -1,17 +1,3 @@
 # lecture_7
 
-![alt text](image-1.png)
-
-![alt text](image.png)
-
-## AlertDialog
-
-![alt text](image-2.png)
-
-## SnackBar
-
-![alt text](image-3.png)
-
-## Gesture
-
-![alt text](image-4.png)
+![image](https://github.com/user-attachments/assets/6469f799-23fc-4102-afa6-4cb00c26cd50)
