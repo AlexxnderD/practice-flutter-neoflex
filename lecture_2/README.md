@@ -1,27 +1,14 @@
 # lecture_2
 
-## 1. runApp
+![image](https://github.com/user-attachments/assets/6283630c-b1d7-42b6-a0b6-15942fc5ec78)
 
-![alt text](assets/images/image6.png)
 
-![alt text](assets/images/image-2.png)
+![image](https://github.com/user-attachments/assets/4958f17e-5389-4a25-bdf4-db3b0473238e)
 
-## 2. MaterialApp
+![image](https://github.com/user-attachments/assets/997e475f-6fac-4277-9bac-ede7e9dd378c)
 
-![alt text](assets/images/image-3.png)
+![image](https://github.com/user-attachments/assets/0f1d43bc-8651-4647-bd9e-5829a9733acf)
 
-## 3. Scaffold
+![image](https://github.com/user-attachments/assets/79be61f9-52d6-4841-bdf7-ddd70e6f1cd8)
 
-![alt text](assets/images/image-4.png)
-
-## 6. StatefulWidget
-
-![alt text](assets/images/image-5.png)
-
-## 7. Работа с Asset и Image
-
-![alt text](assets/images/image-1.png)
-
-## 8. Работа с Asset и Font
-
-![alt text](assets/images/image.png)
+![image](https://github.com/user-attachments/assets/123e3a66-fb72-4d94-b8f3-d99e310e99f4)
